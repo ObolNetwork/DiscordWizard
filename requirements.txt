@@ -6,7 +6,7 @@ certifi==2022.12.7
 chardet==4.0.0
 charset-normalizer==3.1.0
 discord.py-self==1.9.2
-idna==3.4
+idna==3.7
 multidict==6.0.4
 pyaml==21.10.1
 PyYAML==6.0
